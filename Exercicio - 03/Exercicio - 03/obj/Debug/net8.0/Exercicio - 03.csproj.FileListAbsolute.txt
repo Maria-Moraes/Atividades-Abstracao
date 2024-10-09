@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\bin\Debug\net8.0\Exercicio - 03.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\bin\Debug\net8.0\Exercicio - 03.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\bin\Debug\net8.0\Exercicio - 03.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\bin\Debug\net8.0\Exercicio - 03.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\bin\Debug\net8.0\Exercicio - 03.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\refint\Exercicio - 03.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\Exercicio - 03.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\Exercicios\Exercicio - 03\Exercicio - 03\obj\Debug\net8.0\ref\Exercicio - 03.dll
